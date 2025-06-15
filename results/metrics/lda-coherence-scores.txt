@@ -1,0 +1,9 @@
+Num Topics = 2 => Coherence Score = 0.6156
+Num Topics = 3 => Coherence Score = 0.6217
+Num Topics = 4 => Coherence Score = 0.6119
+Num Topics = 5 => Coherence Score = 0.6164
+Num Topics = 6 => Coherence Score = 0.5774
+Num Topics = 7 => Coherence Score = 0.5817
+Num Topics = 8 => Coherence Score = 0.5387
+Num Topics = 9 => Coherence Score = 0.5258
+Num Topics = 10 => Coherence Score = 0.4725
