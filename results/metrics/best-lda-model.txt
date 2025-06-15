@@ -1,0 +1,22 @@
+Best LDA Model: 3 topics
+Coherence Score: 0.6217
+
+[(0,
+  '0.012*"launch" + 0.011*"new" + 0.009*"scientist" + 0.009*"official" + '
+  '0.009*"platform" + 0.009*"pollution" + 0.009*"local" + 0.009*"team" + '
+  '0.006*"government" + 0.006*"improve" + 0.006*"study" + 0.006*"national" + '
+  '0.006*"urban" + 0.006*"festival" + 0.006*"electric" + 0.006*"literacy" + '
+  '0.006*"international" + 0.006*"develop" + 0.006*"introduce" + 0.006*"air"'),
+ (1,
+  '0.013*"new" + 0.008*"tech" + 0.008*"energy" + 0.008*"renewable" + '
+  '0.008*"community" + 0.008*"thousand" + 0.008*"health" + 0.006*"local" + '
+  '0.006*"report" + 0.006*"last" + 0.006*"season" + 0.006*"sector" + '
+  '0.006*"specie" + 0.006*"expand" + 0.006*"protect" + 0.006*"emergency" + '
+  '0.006*"entrepreneur" + 0.006*"across" + 0.006*"market" + 0.006*"business"'),
+ (2,
+  '0.023*"new" + 0.017*"city" + 0.015*"public" + 0.009*"aim" + '
+  '0.009*"announce" + 0.009*"investigate" + 0.007*"health" + 0.007*"authority" '
+  '+ 0.007*"researcher" + 0.006*"government" + 0.006*"improve" + '
+  '0.006*"promise" + 0.006*"park" + 0.006*"receive" + 0.006*"change" + '
+  '0.006*"international" + 0.006*"infrastructure" + 0.006*"increase" + '
+  '0.006*"scientist" + 0.006*"reduce"')]
