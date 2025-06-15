@@ -1,0 +1,630 @@
+
+Document 1:
+stock market close high today tech share rally amid strong earnings report
+Topic Distribution:
+  Topic 0: 0.0260
+  Topic 1: 0.9479
+  Topic 2: 0.0260
+
+Document 2:
+major earthquake strike coastal city early morning cause widespread damage
+Topic Distribution:
+  Topic 0: 0.0305
+  Topic 1: 0.0305
+  Topic 2: 0.9391
+
+Document 3:
+government announce new policy aim reduce carbon emission
+Topic Distribution:
+  Topic 0: 0.0389
+  Topic 1: 0.0378
+  Topic 2: 0.9233
+
+Document 4:
+scientist discover new specie dinosaur remote mountain argentina
+Topic Distribution:
+  Topic 0: 0.0394
+  Topic 1: 0.0393
+  Topic 2: 0.9212
+
+Document 5:
+local football team championship thrill final match
+Topic Distribution:
+  Topic 0: 0.9151
+  Topic 1: 0.0428
+  Topic 2: 0.0421
+
+Document 6:
+health official urge citizen get vaccinate flu season approach
+Topic Distribution:
+  Topic 0: 0.0353
+  Topic 1: 0.9308
+  Topic 2: 0.0340
+
+Document 7:
+breakthrough renewable energy technology promise cheap solar panel
+Topic Distribution:
+  Topic 0: 0.0377
+  Topic 1: 0.9223
+  Topic 2: 0.0401
+
+Document 8:
+international leader meet discuss trade agreement economic cooperation
+Topic Distribution:
+  Topic 0: 0.0399
+  Topic 1: 0.9210
+  Topic 2: 0.0390
+
+Document 9:
+popular film festival open weekend showcasing independent movie around world
+Topic Distribution:
+  Topic 0: 0.9380
+  Topic 1: 0.0309
+  Topic 2: 0.0311
+
+Document 10:
+city council approve plan new public park promote green space
+Topic Distribution:
+  Topic 0: 0.0310
+  Topic 1: 0.0308
+  Topic 2: 0.9382
+
+Document 11:
+tech startup attract record venture capital funding last quarter
+Topic Distribution:
+  Topic 0: 0.9260
+  Topic 1: 0.0393
+  Topic 2: 0.0347
+
+Document 12:
+severe flooding affect thousand hurricane sweep across southern coast
+Topic Distribution:
+  Topic 0: 0.0335
+  Topic 1: 0.9329
+  Topic 2: 0.0336
+
+Document 13:
+new education reform aim improve literacy rate rural area
+Topic Distribution:
+  Topic 0: 0.0384
+  Topic 1: 0.0357
+  Topic 2: 0.9260
+
+Document 14:
+researcher develop vaccine candidate show promise new virus strain
+Topic Distribution:
+  Topic 0: 0.0352
+  Topic 1: 0.0342
+  Topic 2: 0.9305
+
+Document 15:
+basketball team secure playoff spot narrow victory last night
+Topic Distribution:
+  Topic 0: 0.0360
+  Topic 1: 0.9302
+  Topic 2: 0.0338
+
+Document 16:
+authority launch campaign combat misinformation social medium platform
+Topic Distribution:
+  Topic 0: 0.9209
+  Topic 1: 0.0403
+  Topic 2: 0.0388
+
+Document 17:
+advancement artificial intelligence reshape manufacturing sector
+Topic Distribution:
+  Topic 0: 0.0479
+  Topic 1: 0.9035
+  Topic 2: 0.0485
+
+Document 18:
+new art exhibition open downtown featuring contemporary local artist
+Topic Distribution:
+  Topic 0: 0.9300
+  Topic 1: 0.0351
+  Topic 2: 0.0349
+
+Document 19:
+mayor announce plan improve public transportation infrastructure
+Topic Distribution:
+  Topic 0: 0.0426
+  Topic 1: 0.0429
+  Topic 2: 0.9145
+
+Document 20:
+farmer adopt sustainable practice tackle climate change impact
+Topic Distribution:
+  Topic 0: 0.0388
+  Topic 1: 0.9198
+  Topic 2: 0.0414
+
+Document 21:
+oil price surge follow geopolitical tension middle east
+Topic Distribution:
+  Topic 0: 0.0376
+  Topic 1: 0.0374
+  Topic 2: 0.9250
+
+Document 22:
+new study reveals impact microplastics marine ecosystem
+Topic Distribution:
+  Topic 0: 0.9117
+  Topic 1: 0.0443
+  Topic 2: 0.0440
+
+Document 23:
+annual marathon attract thousand runner across globe
+Topic Distribution:
+  Topic 0: 0.0428
+  Topic 1: 0.9152
+  Topic 2: 0.0419
+
+Document 24:
+police investigate cyberattack target financial sector
+Topic Distribution:
+  Topic 0: 0.0479
+  Topic 1: 0.0503
+  Topic 2: 0.9018
+
+Document 25:
+renew peace talk offer hope conflict resolution region
+Topic Distribution:
+  Topic 0: 0.0380
+  Topic 1: 0.9247
+  Topic 2: 0.0373
+
+Document 26:
+wildlife conservation effort lead increase endanger specie population
+Topic Distribution:
+  Topic 0: 0.0380
+  Topic 1: 0.9227
+  Topic 2: 0.0393
+
+Document 27:
+tech giant release late smartphone model advance feature
+Topic Distribution:
+  Topic 0: 0.0375
+  Topic 1: 0.9223
+  Topic 2: 0.0402
+
+Document 28:
+local business report strong sale holiday shopping season
+Topic Distribution:
+  Topic 0: 0.0401
+  Topic 1: 0.9220
+  Topic 2: 0.0379
+
+Document 29:
+scientist explore potential quantum compute drug discovery
+Topic Distribution:
+  Topic 0: 0.0432
+  Topic 1: 0.0430
+  Topic 2: 0.9138
+
+Document 30:
+public health official respond surge measles case year
+Topic Distribution:
+  Topic 0: 0.0412
+  Topic 1: 0.7225
+  Topic 2: 0.2363
+
+Document 31:
+new legislation pass support small business entrepreneur
+Topic Distribution:
+  Topic 0: 0.0436
+  Topic 1: 0.9115
+  Topic 2: 0.0449
+
+Document 32:
+astronomer detect signal distant galaxy may indicate life
+Topic Distribution:
+  Topic 0: 0.9254
+  Topic 1: 0.0373
+  Topic 2: 0.0373
+
+Document 33:
+national soccer team prepare upcoming international tournament
+Topic Distribution:
+  Topic 0: 0.9144
+  Topic 1: 0.0429
+  Topic 2: 0.0428
+
+Document 34:
+electric vehicle sale double charge station become available
+Topic Distribution:
+  Topic 0: 0.9246
+  Topic 1: 0.0379
+  Topic 2: 0.0376
+
+Document 35:
+documentary highlight challenge face indigenous community
+Topic Distribution:
+  Topic 0: 0.0507
+  Topic 1: 0.9010
+  Topic 2: 0.0483
+
+Document 36:
+finance ministry announce budget increase infrastructure project
+Topic Distribution:
+  Topic 0: 0.0427
+  Topic 1: 0.0435
+  Topic 2: 0.9138
+
+Document 37:
+researcher test new water purification method urban area
+Topic Distribution:
+  Topic 0: 0.9177
+  Topic 1: 0.0399
+  Topic 2: 0.0424
+
+Document 38:
+local theater troupe receive accolades late production
+Topic Distribution:
+  Topic 0: 0.0458
+  Topic 1: 0.0447
+  Topic 2: 0.9095
+
+Document 39:
+emergency responder work around clock wildfire spread
+Topic Distribution:
+  Topic 0: 0.0429
+  Topic 1: 0.9152
+  Topic 2: 0.0420
+
+Document 40:
+scientist map genome rare plant specie find amazon
+Topic Distribution:
+  Topic 0: 0.0415
+  Topic 1: 0.9189
+  Topic 2: 0.0395
+
+Document 41:
+central bank adjust interest rate stabilize economy
+Topic Distribution:
+  Topic 0: 0.0420
+  Topic 1: 0.9151
+  Topic 2: 0.0429
+
+Document 42:
+new regulation aim reduce plastic waste oceans river
+Topic Distribution:
+  Topic 0: 0.0389
+  Topic 1: 0.0376
+  Topic 2: 0.9235
+
+Document 43:
+community volunteer organize cleanup drive city park
+Topic Distribution:
+  Topic 0: 0.0419
+  Topic 1: 0.0454
+  Topic 2: 0.9127
+
+Document 44:
+education department launch online learn platform student
+Topic Distribution:
+  Topic 0: 0.9152
+  Topic 1: 0.0420
+  Topic 2: 0.0428
+
+Document 45:
+sport official confirm cancellation event due pandemic
+Topic Distribution:
+  Topic 0: 0.9149
+  Topic 1: 0.0424
+  Topic 2: 0.0428
+
+Document 46:
+renewable energy project receive funding international organization
+Topic Distribution:
+  Topic 0: 0.8998
+  Topic 1: 0.0533
+  Topic 2: 0.0470
+
+Document 47:
+new smartphone apps help user monitor mental health
+Topic Distribution:
+  Topic 0: 0.0397
+  Topic 1: 0.0391
+  Topic 2: 0.9212
+
+Document 48:
+local library host workshop digital literacy senior
+Topic Distribution:
+  Topic 0: 0.9140
+  Topic 1: 0.0424
+  Topic 2: 0.0436
+
+Document 49:
+authority investigate allegation corruption government contract
+Topic Distribution:
+  Topic 0: 0.0495
+  Topic 1: 0.0487
+  Topic 2: 0.9018
+
+Document 50:
+advance battery technology promise longer last electric car
+Topic Distribution:
+  Topic 0: 0.0395
+  Topic 1: 0.0407
+  Topic 2: 0.9198
+
+Document 51:
+cultural festival celebrate traditional music dance region
+Topic Distribution:
+  Topic 0: 0.9130
+  Topic 1: 0.0446
+  Topic 2: 0.0423
+
+Document 52:
+airline industry face challenge travel restriction ease
+Topic Distribution:
+  Topic 0: 0.9144
+  Topic 1: 0.0436
+  Topic 2: 0.0420
+
+Document 53:
+researcher discover potential treatment alzheimer disease
+Topic Distribution:
+  Topic 0: 0.0483
+  Topic 1: 0.0483
+  Topic 2: 0.9034
+
+Document 54:
+city host international conference climate change mitigation
+Topic Distribution:
+  Topic 0: 0.0447
+  Topic 1: 0.0434
+  Topic 2: 0.9120
+
+Document 55:
+new cybersecurity measure implement protect critical infrastructure
+Topic Distribution:
+  Topic 0: 0.0449
+  Topic 1: 0.9102
+  Topic 2: 0.0449
+
+Document 56:
+farmer report good yield thanks innovative irrigation technique
+Topic Distribution:
+  Topic 0: 0.0379
+  Topic 1: 0.0402
+  Topic 2: 0.9219
+
+Document 57:
+national chess champion defend title tense match
+Topic Distribution:
+  Topic 0: 0.9158
+  Topic 1: 0.0422
+  Topic 2: 0.0419
+
+Document 58:
+scientist study effect air pollution respiratory health
+Topic Distribution:
+  Topic 0: 0.9118
+  Topic 1: 0.0447
+  Topic 2: 0.0435
+
+Document 59:
+public transportation ridership increase follow fare reduction
+Topic Distribution:
+  Topic 0: 0.0418
+  Topic 1: 0.0426
+  Topic 2: 0.9156
+
+Document 60:
+art museum unveil collection rare historical artifact
+Topic Distribution:
+  Topic 0: 0.9154
+  Topic 1: 0.0427
+  Topic 2: 0.0419
+
+Document 61:
+government official discuss strategy boost tourism post pandemic
+Topic Distribution:
+  Topic 0: 0.9227
+  Topic 1: 0.0393
+  Topic 2: 0.0379
+
+Document 62:
+tech sector create thousand new job last fiscal year
+Topic Distribution:
+  Topic 0: 0.0344
+  Topic 1: 0.9303
+  Topic 2: 0.0354
+
+Document 63:
+community health clinic expand service underserved neighborhood
+Topic Distribution:
+  Topic 0: 0.0425
+  Topic 1: 0.9145
+  Topic 2: 0.0429
+
+Document 64:
+new research shed light origin ancient civilization
+Topic Distribution:
+  Topic 0: 0.0427
+  Topic 1: 0.9137
+  Topic 2: 0.0437
+
+Document 65:
+environmental group campaign deforestation protect area
+Topic Distribution:
+  Topic 0: 0.0507
+  Topic 1: 0.9001
+  Topic 2: 0.0492
+
+Document 66:
+football league introduce new rule enhance player safety
+Topic Distribution:
+  Topic 0: 0.9232
+  Topic 1: 0.0380
+  Topic 2: 0.0388
+
+Document 67:
+startup develop platform remote team collaboration
+Topic Distribution:
+  Topic 0: 0.9023
+  Topic 1: 0.0481
+  Topic 2: 0.0496
+
+Document 68:
+school implement measure improve student well mental health
+Topic Distribution:
+  Topic 0: 0.9202
+  Topic 1: 0.0401
+  Topic 2: 0.0397
+
+Document 69:
+film director receive award several international festival
+Topic Distribution:
+  Topic 0: 0.0471
+  Topic 1: 0.0422
+  Topic 2: 0.9107
+
+Document 70:
+scientist launch satellite monitor global climate pattern
+Topic Distribution:
+  Topic 0: 0.9123
+  Topic 1: 0.0431
+  Topic 2: 0.0446
+
+Document 71:
+city council debate zone change accommodate new housing development
+Topic Distribution:
+  Topic 0: 0.0337
+  Topic 1: 0.0340
+  Topic 2: 0.9323
+
+Document 72:
+electric bus introduce reduce urban air pollution
+Topic Distribution:
+  Topic 0: 0.9147
+  Topic 1: 0.0422
+  Topic 2: 0.0432
+
+Document 73:
+researcher analyze data recent volcanic activity predict eruption
+Topic Distribution:
+  Topic 0: 0.0380
+  Topic 1: 0.9206
+  Topic 2: 0.0414
+
+Document 74:
+charity event raise fund support homeless shelter winter
+Topic Distribution:
+  Topic 0: 0.0379
+  Topic 1: 0.0378
+  Topic 2: 0.9242
+
+Document 75:
+government increase investment renewable energy infrastructure
+Topic Distribution:
+  Topic 0: 0.0519
+  Topic 1: 0.8919
+  Topic 2: 0.0562
+
+Document 76:
+tech company collaborate standard data privacy protection
+Topic Distribution:
+  Topic 0: 0.0427
+  Topic 1: 0.0478
+  Topic 2: 0.9094
+
+Document 77:
+wildlife reserve report surge tourist visit season
+Topic Distribution:
+  Topic 0: 0.9064
+  Topic 1: 0.0489
+  Topic 2: 0.0447
+
+Document 78:
+community garden flourish resident embraced urban agriculture
+Topic Distribution:
+  Topic 0: 0.0441
+  Topic 1: 0.9136
+  Topic 2: 0.0422
+
+Document 79:
+new study explore psychological effect social medium use
+Topic Distribution:
+  Topic 0: 0.0441
+  Topic 1: 0.9164
+  Topic 2: 0.0395
+
+Document 80:
+official launch initiative promote literacy among child
+Topic Distribution:
+  Topic 0: 0.9143
+  Topic 1: 0.0425
+  Topic 2: 0.0432
+
+Document 81:
+national park expand trail encourage eco tourism
+Topic Distribution:
+  Topic 0: 0.0455
+  Topic 1: 0.9102
+  Topic 2: 0.0443
+
+Document 82:
+local authority improve emergency preparedness natural disaster
+Topic Distribution:
+  Topic 0: 0.0482
+  Topic 1: 0.9028
+  Topic 2: 0.0490
+
+Document 83:
+sport federation hold train camp ahead championship
+Topic Distribution:
+  Topic 0: 0.9162
+  Topic 1: 0.0419
+  Topic 2: 0.0419
+
+Document 84:
+scientist develop biodegradable material reduce plastic pollution
+Topic Distribution:
+  Topic 0: 0.9128
+  Topic 1: 0.0421
+  Topic 2: 0.0451
+
+Document 85:
+government pass reform improve healthcare access nationwide
+Topic Distribution:
+  Topic 0: 0.9114
+  Topic 1: 0.0435
+  Topic 2: 0.0451
+
+Document 86:
+entrepreneur launch innovative fintech solution rural market
+Topic Distribution:
+  Topic 0: 0.0480
+  Topic 1: 0.9080
+  Topic 2: 0.0440
+
+Document 87:
+city experience heatwave cause health warning vulnerable population
+Topic Distribution:
+  Topic 0: 0.0378
+  Topic 1: 0.0387
+  Topic 2: 0.9236
+
+Document 88:
+artist collaborate mural celebrate cultural diversity
+Topic Distribution:
+  Topic 0: 0.0526
+  Topic 1: 0.8981
+  Topic 2: 0.0493
+
+Document 89:
+renewable energy source account record percentage electricity generation
+Topic Distribution:
+  Topic 0: 0.0384
+  Topic 1: 0.9243
+  Topic 2: 0.0373
+
+Document 90:
+authority investigate fraud recent public procurement contract
+Topic Distribution:
+  Topic 0: 0.0422
+  Topic 1: 0.0430
+  Topic 2: 0.9149
