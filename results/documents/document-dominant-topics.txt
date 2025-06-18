@@ -27,7 +27,7 @@ Document 26: Dominant Topic = 1, Score = 0.9227
 Document 27: Dominant Topic = 1, Score = 0.9223
 Document 28: Dominant Topic = 1, Score = 0.9220
 Document 29: Dominant Topic = 2, Score = 0.9138
-Document 30: Dominant Topic = 1, Score = 0.7225
+Document 30: Dominant Topic = 1, Score = 0.7226
 Document 31: Dominant Topic = 1, Score = 0.9115
 Document 32: Dominant Topic = 0, Score = 0.9254
 Document 33: Dominant Topic = 0, Score = 0.9144

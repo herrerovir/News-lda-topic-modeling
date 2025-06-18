@@ -1,0 +1,91 @@
+doc_id,text,dominant_topic,dominant_prob,topic_distribution,topic_label
+0,"['stock', 'market', 'close', 'high', 'today', 'tech', 'share', 'rally', 'amid', 'strong', 'earnings', 'report']",1,0.9479286,"{0: 0.026026208, 1: 0.9479286, 2: 0.026045177}",Public Affairs
+1,"['major', 'earthquake', 'strike', 'coastal', 'city', 'early', 'morning', 'cause', 'widespread', 'damage']",2,0.93905836,"{0: 0.030475467, 1: 0.03046617, 2: 0.93905836}",Urban Development
+2,"['government', 'announce', 'new', 'policy', 'aim', 'reduce', 'carbon', 'emission']",2,0.9233163,"{0: 0.03890006, 1: 0.03778357, 2: 0.9233163}",Urban Development
+3,"['scientist', 'discover', 'new', 'specie', 'dinosaur', 'remote', 'mountain', 'argentina']",2,0.92123985,"{0: 0.039415035, 1: 0.03934513, 2: 0.92123985}",Urban Development
+4,"['local', 'football', 'team', 'championship', 'thrill', 'final', 'match']",0,0.91512245,"{0: 0.91512245, 1: 0.04277434, 2: 0.042103227}",Local Events
+5,"['health', 'official', 'urge', 'citizen', 'get', 'vaccinate', 'flu', 'season', 'approach']",1,0.93074614,"{0: 0.035260957, 1: 0.93074614, 2: 0.033992857}",Public Affairs
+6,"['breakthrough', 'renewable', 'energy', 'technology', 'promise', 'cheap', 'solar', 'panel']",1,0.92227703,"{0: 0.03766105, 1: 0.92227703, 2: 0.040061925}",Public Affairs
+7,"['international', 'leader', 'meet', 'discuss', 'trade', 'agreement', 'economic', 'cooperation']",1,0.92102355,"{0: 0.039928094, 1: 0.92102355, 2: 0.039048344}",Public Affairs
+8,"['popular', 'film', 'festival', 'open', 'weekend', 'showcasing', 'independent', 'movie', 'around', 'world']",0,0.93799055,"{0: 0.93799055, 1: 0.03086104, 2: 0.03114842}",Local Events
+9,"['city', 'council', 'approve', 'plan', 'new', 'public', 'park', 'promote', 'green', 'space']",2,0.9381558,"{0: 0.031025674, 1: 0.030818583, 2: 0.9381558}",Urban Development
+10,"['tech', 'startup', 'attract', 'record', 'venture', 'capital', 'funding', 'last', 'quarter']",0,0.9260505,"{0: 0.9260505, 1: 0.03929513, 2: 0.03465441}",Local Events
+11,"['severe', 'flooding', 'affect', 'thousand', 'hurricane', 'sweep', 'across', 'southern', 'coast']",1,0.9328961,"{0: 0.033549335, 1: 0.9328961, 2: 0.033554584}",Public Affairs
+12,"['new', 'education', 'reform', 'aim', 'improve', 'literacy', 'rate', 'rural', 'area']",2,0.92597824,"{0: 0.03836187, 1: 0.03565984, 2: 0.92597824}",Urban Development
+13,"['researcher', 'develop', 'vaccine', 'candidate', 'show', 'promise', 'new', 'virus', 'strain']",2,0.9305296,"{0: 0.03524996, 1: 0.034220446, 2: 0.9305296}",Urban Development
+14,"['basketball', 'team', 'secure', 'playoff', 'spot', 'narrow', 'victory', 'last', 'night']",1,0.9301709,"{0: 0.035993036, 1: 0.9301709, 2: 0.033836063}",Public Affairs
+15,"['authority', 'launch', 'campaign', 'combat', 'misinformation', 'social', 'medium', 'platform']",0,0.9208531,"{0: 0.9208531, 1: 0.04030767, 2: 0.038839266}",Local Events
+16,"['advancement', 'artificial', 'intelligence', 'reshape', 'manufacturing', 'sector']",1,0.9035336,"{0: 0.047941633, 1: 0.9035336, 2: 0.04852483}",Public Affairs
+17,"['new', 'art', 'exhibition', 'open', 'downtown', 'featuring', 'contemporary', 'local', 'artist']",0,0.93002176,"{0: 0.93002176, 1: 0.035061415, 2: 0.0349169}",Local Events
+18,"['mayor', 'announce', 'plan', 'improve', 'public', 'transportation', 'infrastructure']",2,0.9144899,"{0: 0.04260782, 1: 0.04290223, 2: 0.9144899}",Urban Development
+19,"['farmer', 'adopt', 'sustainable', 'practice', 'tackle', 'climate', 'change', 'impact']",1,0.91982967,"{0: 0.038807772, 1: 0.91982967, 2: 0.041362602}",Public Affairs
+20,"['oil', 'price', 'surge', 'follow', 'geopolitical', 'tension', 'middle', 'east']",2,0.9250259,"{0: 0.03761971, 1: 0.037354406, 2: 0.9250259}",Urban Development
+21,"['new', 'study', 'reveals', 'impact', 'microplastics', 'marine', 'ecosystem']",0,0.91170645,"{0: 0.91170645, 1: 0.04433747, 2: 0.04395613}",Local Events
+22,"['annual', 'marathon', 'attract', 'thousand', 'runner', 'across', 'globe']",1,0.9152384,"{0: 0.042831283, 1: 0.9152384, 2: 0.04193029}",Public Affairs
+23,"['police', 'investigate', 'cyberattack', 'target', 'financial', 'sector']",2,0.90173376,"{0: 0.047901116, 1: 0.050365124, 2: 0.90173376}",Urban Development
+24,"['renew', 'peace', 'talk', 'offer', 'hope', 'conflict', 'resolution', 'region']",1,0.9246565,"{0: 0.038022127, 1: 0.9246565, 2: 0.03732141}",Public Affairs
+25,"['wildlife', 'conservation', 'effort', 'lead', 'increase', 'endanger', 'specie', 'population']",1,0.92271227,"{0: 0.037964966, 1: 0.92271227, 2: 0.039322797}",Public Affairs
+26,"['tech', 'giant', 'release', 'late', 'smartphone', 'model', 'advance', 'feature']",1,0.92233676,"{0: 0.037484877, 1: 0.92233676, 2: 0.040178385}",Public Affairs
+27,"['local', 'business', 'report', 'strong', 'sale', 'holiday', 'shopping', 'season']",1,0.92200536,"{0: 0.040116973, 1: 0.92200536, 2: 0.03787768}",Public Affairs
+28,"['scientist', 'explore', 'potential', 'quantum', 'compute', 'drug', 'discovery']",2,0.9137594,"{0: 0.0432483, 1: 0.04299228, 2: 0.9137594}",Urban Development
+29,"['public', 'health', 'official', 'respond', 'surge', 'measles', 'case', 'year']",1,0.7225834,"{0: 0.041194096, 1: 0.7225834, 2: 0.23622254}",Public Affairs
+30,"['new', 'legislation', 'pass', 'support', 'small', 'business', 'entrepreneur']",1,0.9114864,"{0: 0.04364071, 1: 0.9114864, 2: 0.04487292}",Public Affairs
+31,"['astronomer', 'detect', 'signal', 'distant', 'galaxy', 'may', 'indicate', 'life']",0,0.9254206,"{0: 0.9254206, 1: 0.037275545, 2: 0.03730383}",Local Events
+32,"['national', 'soccer', 'team', 'prepare', 'upcoming', 'international', 'tournament']",0,0.91436243,"{0: 0.91436243, 1: 0.042852536, 2: 0.042785063}",Local Events
+33,"['electric', 'vehicle', 'sale', 'double', 'charge', 'station', 'become', 'available']",0,0.92454976,"{0: 0.92454976, 1: 0.037860397, 2: 0.037589815}",Local Events
+34,"['documentary', 'highlight', 'challenge', 'face', 'indigenous', 'community']",1,0.90099764,"{0: 0.0506953, 1: 0.90099764, 2: 0.048307076}",Public Affairs
+35,"['finance', 'ministry', 'announce', 'budget', 'increase', 'infrastructure', 'project']",2,0.913826,"{0: 0.042675216, 1: 0.043498795, 2: 0.913826}",Urban Development
+36,"['researcher', 'test', 'new', 'water', 'purification', 'method', 'urban', 'area']",0,0.9176908,"{0: 0.9176908, 1: 0.039891444, 2: 0.04241775}",Local Events
+37,"['local', 'theater', 'troupe', 'receive', 'accolades', 'late', 'production']",2,0.90951556,"{0: 0.0457549, 1: 0.04472954, 2: 0.90951556}",Urban Development
+38,"['emergency', 'responder', 'work', 'around', 'clock', 'wildfire', 'spread']",1,0.91515493,"{0: 0.04288144, 1: 0.91515493, 2: 0.04196361}",Public Affairs
+39,"['scientist', 'map', 'genome', 'rare', 'plant', 'specie', 'find', 'amazon']",1,0.918932,"{0: 0.041532617, 1: 0.918932, 2: 0.039535347}",Public Affairs
+40,"['central', 'bank', 'adjust', 'interest', 'rate', 'stabilize', 'economy']",1,0.9150725,"{0: 0.041980736, 1: 0.9150725, 2: 0.042946756}",Public Affairs
+41,"['new', 'regulation', 'aim', 'reduce', 'plastic', 'waste', 'oceans', 'river']",2,0.9235106,"{0: 0.038929272, 1: 0.037560143, 2: 0.9235106}",Urban Development
+42,"['community', 'volunteer', 'organize', 'cleanup', 'drive', 'city', 'park']",2,0.9126793,"{0: 0.04188907, 1: 0.04543161, 2: 0.9126793}",Urban Development
+43,"['education', 'department', 'launch', 'online', 'learn', 'platform', 'student']",0,0.9152299,"{0: 0.9152299, 1: 0.04201702, 2: 0.04275305}",Local Events
+44,"['sport', 'official', 'confirm', 'cancellation', 'event', 'due', 'pandemic']",0,0.91485214,"{0: 0.91485214, 1: 0.042373374, 2: 0.0427745}",Local Events
+45,"['renewable', 'energy', 'project', 'receive', 'funding', 'international', 'organization']",0,0.8997055,"{0: 0.8997055, 1: 0.053335708, 2: 0.046958763}",Local Events
+46,"['new', 'smartphone', 'apps', 'help', 'user', 'monitor', 'mental', 'health']",2,0.9211495,"{0: 0.03972249, 1: 0.039128024, 2: 0.9211495}",Urban Development
+47,"['local', 'library', 'host', 'workshop', 'digital', 'literacy', 'senior']",0,0.9140101,"{0: 0.9140101, 1: 0.042417597, 2: 0.04357228}",Local Events
+48,"['authority', 'investigate', 'allegation', 'corruption', 'government', 'contract']",2,0.9018236,"{0: 0.049485914, 1: 0.04869048, 2: 0.9018236}",Urban Development
+49,"['advance', 'battery', 'technology', 'promise', 'longer', 'last', 'electric', 'car']",2,0.91978085,"{0: 0.039542142, 1: 0.04067694, 2: 0.91978085}",Urban Development
+50,"['cultural', 'festival', 'celebrate', 'traditional', 'music', 'dance', 'region']",0,0.91303945,"{0: 0.91303945, 1: 0.044621125, 2: 0.042339455}",Local Events
+51,"['airline', 'industry', 'face', 'challenge', 'travel', 'restriction', 'ease']",0,0.91441613,"{0: 0.91441613, 1: 0.043618187, 2: 0.041965656}",Local Events
+52,"['researcher', 'discover', 'potential', 'treatment', 'alzheimer', 'disease']",2,0.9033911,"{0: 0.04832918, 1: 0.048279703, 2: 0.9033911}",Urban Development
+53,"['city', 'host', 'international', 'conference', 'climate', 'change', 'mitigation']",2,0.9119534,"{0: 0.04468118, 1: 0.04336541, 2: 0.9119534}",Urban Development
+54,"['new', 'cybersecurity', 'measure', 'implement', 'protect', 'critical', 'infrastructure']",1,0.9102272,"{0: 0.04486789, 1: 0.9102272, 2: 0.04490492}",Public Affairs
+55,"['farmer', 'report', 'good', 'yield', 'thanks', 'innovative', 'irrigation', 'technique']",2,0.9218751,"{0: 0.037889235, 1: 0.040235665, 2: 0.9218751}",Urban Development
+56,"['national', 'chess', 'champion', 'defend', 'title', 'tense', 'match']",0,0.9158331,"{0: 0.9158331, 1: 0.042246807, 2: 0.041920055}",Local Events
+57,"['scientist', 'study', 'effect', 'air', 'pollution', 'respiratory', 'health']",0,0.9117768,"{0: 0.9117768, 1: 0.044737056, 2: 0.04348613}",Local Events
+58,"['public', 'transportation', 'ridership', 'increase', 'follow', 'fare', 'reduction']",2,0.9155544,"{0: 0.041847657, 1: 0.042597957, 2: 0.9155544}",Urban Development
+59,"['art', 'museum', 'unveil', 'collection', 'rare', 'historical', 'artifact']",0,0.91537935,"{0: 0.91537935, 1: 0.04267872, 2: 0.04194195}",Local Events
+60,"['government', 'official', 'discuss', 'strategy', 'boost', 'tourism', 'post', 'pandemic']",0,0.9227347,"{0: 0.9227347, 1: 0.03933047, 2: 0.03793485}",Local Events
+61,"['tech', 'sector', 'create', 'thousand', 'new', 'job', 'last', 'fiscal', 'year']",1,0.93025696,"{0: 0.034359615, 1: 0.93025696, 2: 0.035383403}",Public Affairs
+62,"['community', 'health', 'clinic', 'expand', 'service', 'underserved', 'neighborhood']",1,0.9145432,"{0: 0.04251778, 1: 0.9145432, 2: 0.042939015}",Public Affairs
+63,"['new', 'research', 'shed', 'light', 'origin', 'ancient', 'civilization']",1,0.913654,"{0: 0.04266812, 1: 0.913654, 2: 0.043677878}",Public Affairs
+64,"['environmental', 'group', 'campaign', 'deforestation', 'protect', 'area']",1,0.9000568,"{0: 0.05069875, 1: 0.9000568, 2: 0.04924446}",Public Affairs
+65,"['football', 'league', 'introduce', 'new', 'rule', 'enhance', 'player', 'safety']",0,0.92318916,"{0: 0.92318916, 1: 0.038010154, 2: 0.038800664}",Local Events
+66,"['startup', 'develop', 'platform', 'remote', 'team', 'collaboration']",0,0.9022573,"{0: 0.9022573, 1: 0.048117887, 2: 0.049624752}",Local Events
+67,"['school', 'implement', 'measure', 'improve', 'student', 'well', 'mental', 'health']",0,0.9202114,"{0: 0.9202114, 1: 0.040056553, 2: 0.039732043}",Local Events
+68,"['film', 'director', 'receive', 'award', 'several', 'international', 'festival']",2,0.9106942,"{0: 0.04708567, 1: 0.042220145, 2: 0.9106942}",Urban Development
+69,"['scientist', 'launch', 'satellite', 'monitor', 'global', 'climate', 'pattern']",0,0.9123452,"{0: 0.9123452, 1: 0.043082647, 2: 0.04457222}",Local Events
+70,"['city', 'council', 'debate', 'zone', 'change', 'accommodate', 'new', 'housing', 'development']",2,0.9323016,"{0: 0.03372262, 1: 0.033975814, 2: 0.9323016}",Urban Development
+71,"['electric', 'bus', 'introduce', 'reduce', 'urban', 'air', 'pollution']",0,0.9146889,"{0: 0.9146889, 1: 0.04215019, 2: 0.043160904}",Local Events
+72,"['researcher', 'analyze', 'data', 'recent', 'volcanic', 'activity', 'predict', 'eruption']",1,0.92062646,"{0: 0.038000096, 1: 0.92062646, 2: 0.041373424}",Public Affairs
+73,"['charity', 'event', 'raise', 'fund', 'support', 'homeless', 'shelter', 'winter']",2,0.9242432,"{0: 0.037908852, 1: 0.037847925, 2: 0.9242432}",Urban Development
+74,"['government', 'increase', 'investment', 'renewable', 'energy', 'infrastructure']",1,0.8919105,"{0: 0.051924035, 1: 0.8919105, 2: 0.05616545}",Public Affairs
+75,"['tech', 'company', 'collaborate', 'standard', 'data', 'privacy', 'protection']",2,0.9094365,"{0: 0.042735763, 1: 0.047827743, 2: 0.9094365}",Urban Development
+76,"['wildlife', 'reserve', 'report', 'surge', 'tourist', 'visit', 'season']",0,0.90641296,"{0: 0.90641296, 1: 0.048899706, 2: 0.044687375}",Local Events
+77,"['community', 'garden', 'flourish', 'resident', 'embraced', 'urban', 'agriculture']",1,0.9136233,"{0: 0.044151336, 1: 0.9136233, 2: 0.042225394}",Public Affairs
+78,"['new', 'study', 'explore', 'psychological', 'effect', 'social', 'medium', 'use']",1,0.91637594,"{0: 0.044082697, 1: 0.91637594, 2: 0.03954133}",Public Affairs
+79,"['official', 'launch', 'initiative', 'promote', 'literacy', 'among', 'child']",0,0.9142557,"{0: 0.9142557, 1: 0.0425323, 2: 0.04321201}",Local Events
+80,"['national', 'park', 'expand', 'trail', 'encourage', 'eco', 'tourism']",1,0.9102189,"{0: 0.045502603, 1: 0.9102189, 2: 0.04427851}",Public Affairs
+81,"['local', 'authority', 'improve', 'emergency', 'preparedness', 'natural', 'disaster']",1,0.9027785,"{0: 0.04819981, 1: 0.9027785, 2: 0.04902169}",Public Affairs
+82,"['sport', 'federation', 'hold', 'train', 'camp', 'ahead', 'championship']",0,0.91618127,"{0: 0.91618127, 1: 0.04189816, 2: 0.04192057}",Local Events
+83,"['scientist', 'develop', 'biodegradable', 'material', 'reduce', 'plastic', 'pollution']",0,0.912758,"{0: 0.912758, 1: 0.042051543, 2: 0.04519047}",Local Events
+84,"['government', 'pass', 'reform', 'improve', 'healthcare', 'access', 'nationwide']",0,0.9114414,"{0: 0.9114414, 1: 0.04345451, 2: 0.045104116}",Local Events
+85,"['entrepreneur', 'launch', 'innovative', 'fintech', 'solution', 'rural', 'market']",1,0.9079978,"{0: 0.047991417, 1: 0.9079978, 2: 0.044010803}",Public Affairs
+86,"['city', 'experience', 'heatwave', 'cause', 'health', 'warning', 'vulnerable', 'population']",2,0.9235646,"{0: 0.03778285, 1: 0.038652584, 2: 0.9235646}",Urban Development
+87,"['artist', 'collaborate', 'mural', 'celebrate', 'cultural', 'diversity']",1,0.89805996,"{0: 0.05265482, 1: 0.89805996, 2: 0.049285237}",Public Affairs
+88,"['renewable', 'energy', 'source', 'account', 'record', 'percentage', 'electricity', 'generation']",1,0.9243152,"{0: 0.038413562, 1: 0.9243152, 2: 0.037271228}",Public Affairs
+89,"['authority', 'investigate', 'fraud', 'recent', 'public', 'procurement', 'contract']",2,0.9148653,"{0: 0.04219778, 1: 0.042936888, 2: 0.9148653}",Urban Development

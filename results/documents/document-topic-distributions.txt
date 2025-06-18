@@ -206,8 +206,8 @@ Document 30:
 public health official respond surge measles case year
 Topic Distribution:
   Topic 0: 0.0412
-  Topic 1: 0.7225
-  Topic 2: 0.2363
+  Topic 1: 0.7226
+  Topic 2: 0.2362
 
 Document 31:
 new legislation pass support small business entrepreneur

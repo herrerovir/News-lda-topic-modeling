@@ -6,4 +6,4 @@ Num Topics = 6 => Coherence Score = 0.5774
 Num Topics = 7 => Coherence Score = 0.5817
 Num Topics = 8 => Coherence Score = 0.5387
 Num Topics = 9 => Coherence Score = 0.5258
-Num Topics = 10 => Coherence Score = 0.4725
+Num Topics = 10 => Coherence Score = 0.4735
